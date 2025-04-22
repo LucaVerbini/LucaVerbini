@@ -38,8 +38,6 @@
 
 ## 🛠️ Obiettivi personali 2025
 
-- ✅ Costruire un portfolio GitHub con progetti in Python, Power BI e MATLAB
-- ✅ Completare almeno 2 certificazioni tecniche (es. Python, Power BI o MATLAB)
 - 🧪 Integrare competenze scientifiche con strumenti data-driven
 - 🚀 Avvicinarmi al ruolo di data analyst/data scientist in ambito energetico e industriale
 
