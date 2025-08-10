@@ -1,34 +1,33 @@
-# 👋 Ciao! Sono Luca Verbini
+# Luca Verbini – Ingegnere Energetico e Studente Magistrale in Ingegneria Fisica
+Combino competenze ingegneristiche e conoscenze scientifiche per sviluppare soluzioni data-driven nel settore energetico e industriale
 
 🎓 Laureato in Ingegneria Energetica @ Politecnico di Milano  
 📚 Studente magistrale in Ingegneria Fisica – Indirizzo *Quantum Materials and Nanophysics* (PoliMi)  
 🔁 Background anche in Ingegneria Nucleare  
-👨‍💼 Junior Energy Manager – Piano Transizione 5.0, efficienza energetica e monitoraggi  
-📍 Piacenza, Italia | 🌱 In transizione verso Data Science e analisi energetica avanzata
+📍 Fiorenzuola d'Arda (PC), Italia 
 
 ---
 
-## 🚀 Cosa sto facendo ora
+## 🚀 Attività attuali
 
-- 🔭 Lavoro come Junior Energy Manager su progetti legati al Piano Transizione 5.0 e all’efficienza energetica
-- 📊 Mi occupo di analisi di consumo elettrico e monitoraggi per agevolazioni industriali
-- 💡 Studio Python, Power BI e MATLAB per sviluppare strumenti personalizzati per l'analisi dati
-- 🧠 Studio Fisica avanzata con focus su materiali quantistici e nanotecnologie
+- **Junior Energy Manager** su progetti legati al *Piano Transizione 5.0* ed all’*efficienza energetica*
+- Analisi di consumo elettrico e monitoraggi per agevolazioni industriali
+- Studio e applicazione di **Python**, **Power BI** e **MATLAB** per analisi dati personalizzate
 
 ---
 
 ## 🧠 Competenze in sviluppo
 
-- Python (base – in fase di apprendimento con Jupyter, pandas, matplotlib)
-- MATLAB (utilizzo per regressioni e analisi semplici)
-- Power BI (a partire da maggio 2025)
-- Excel avanzato (reportistica, consumo, formule complesse)
-- Git e GitHub (versionamento e portfolio)
-- Conoscenze ingegneristiche in energia, fisica e materiali
+- **Python** (Jupyter, Pandas, Matplotlib – livello base, in apprendimento)  
+- **MATLAB** (analisi e regressioni semplici)  
+- **Power BI** 
+- **Excel avanzato** (reportistica, analisi consumi, formule complesse)  
+- **Git & GitHub** (versionamento e portfolio)  
+- Conoscenze tecniche in **energia**, **fisica** e **materiali**  
 
 ---
 
-## 🔗 Link utili
+## 🔗 Contatti
 
 - [LinkedIn](www.linkedin.com/in/luca-verbini)  
 - Email: verbo1997@gmail.com
@@ -38,7 +37,7 @@
 
 ## 🛠️ Obiettivi personali 2025
 
-- 🧪 Integrare competenze scientifiche con strumenti data-driven
-- 🚀 Avvicinarmi al ruolo di data analyst/data scientist in ambito energetico e industriale
+- Integrare competenze scientifiche con strumenti data-driven
+- Avvicinarmi al ruolo di data analyst/data scientist in ambito energetico e industriale
 
 
